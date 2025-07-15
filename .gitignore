@@ -620,3 +620,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Ignore video storage director contents
+videos/*
