@@ -623,3 +623,4 @@ FodyWeavers.xsd
 
 # Ignore video storage director contents
 videos/*
+!.videos/.gitignore
