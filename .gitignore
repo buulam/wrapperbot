@@ -622,4 +622,4 @@ FodyWeavers.xsd
 *.msp
 
 # Ignore video storage directory contents
-!.videos/.gitignore
+!videos/.gitignore
